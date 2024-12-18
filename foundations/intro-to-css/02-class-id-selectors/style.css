@@ -2,3 +2,18 @@
     font-family: Verdana, 'DejaVu Sans', sans-serif;
     background-color: #ffcccb;
 }
+
+.dclass#two {
+    color:blue;
+    font-size: 36px;
+}
+
+.pclass#three {
+    font-size: 24px;
+}
+
+.dclass#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
