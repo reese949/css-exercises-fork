@@ -3,16 +3,16 @@
     background-color: #ffcccb;
 }
 
-.dclass#two {
+#two {
     color:blue;
     font-size: 36px;
 }
 
-.pclass#three {
+#three {
     font-size: 24px;
 }
 
-.dclass#four {
+#four {
     background-color: lightgreen;
     font-size: 24px;
     font-weight: bold;
